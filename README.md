@@ -21,4 +21,4 @@ Python · PyTorch · scikit-learn · pandas · NumPy · NetworkX · C/C++ · Jav
 
 Outside code: chess, astrophotography and Arabic poetry.
 
-📫 https://www.linkedin.com/in/mohammed-alrabiah-524a0a262/
+📫 [LinkedIn](https://www.linkedin.com/in/mohammed-alrabiah-524a0a262/)

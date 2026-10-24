@@ -20,4 +20,4 @@ Computer Science senior at **King Saud University** (Riyadh), focused on **AI an
 Python · PyTorch · scikit-learn · pandas · NumPy · NetworkX · C/C++ · Java · SQL · React · Laravel · Git
 
 Outside code: chess, astrophotography and Arabic poetry.
-📫 [mohammed1alrabiah@gmail.com](https://www.linkedin.com/in/mohammed-alrabiah-524a0a262/)
+📫 https://www.linkedin.com/in/mohammed-alrabiah-524a0a262/

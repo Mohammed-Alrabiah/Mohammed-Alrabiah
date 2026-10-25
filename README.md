@@ -2,7 +2,8 @@
 
 Computer Science senior at **King Saud University** (Riyadh), focused on **AI and machine learning**: computer vision, search and optimisation, and building AI systems end to end.
 
-- 🎓 Imperial College London, Data Science & AI Summer School (Distinction, 2026) · King's College London, Foundations of AI (2025)
+- 🎓 Imperial College London, Data Science & AI Summer School (Distinction, 2026)
+- 🎓 King's College London, Foundations of AI (2025)
 - 🧠 NVIDIA × SDAIA Professional Training Program in LLMs (2026)
 - 🏆 1st place, FTC Innovation Hackathon (Solutions by STC)
 - 🔭 Currently building **SynthLens**, my graduation project: explainable detection of AI-generated images and audio
